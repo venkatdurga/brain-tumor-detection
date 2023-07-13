@@ -1,5 +1,6 @@
 # brain-tumor-detection
 Automated Diagnosis of Brain Tumor  based on Deep Learning Feature Fusion using MRI Images
 
+![Brain-Tumours](https://github.com/venkatdurga/brain-tumor-detection/assets/75824905/d955e455-f6fb-44df-adac-4386448fcf59)
 
 Brain tumor detection is an important task in medical image analysis, as early detection is crucial for the patient's treatment and survival. In recent years, deep learning has shown remarkable success in various medical imaging tasks, including brain tumor detection. In this paper, we compare the performance of 8 pre-trained Convolutional Neural Network (CNN) models using ImageNet dataset weights in order to identify the best suitable model. We use the publicly available Brain MRI scans for Brain Tumor Detection (BRATS) modified dataset for training and testing our model. The models were evaluated using publicly available MRI images, with InceptionV3+VGG19 achieving the greatest accuracy of 96%. We used the Adam optimizer and also evaluated the performance of this combined model using various evaluation metrics, including accuracy, precision, recall, and F1 score. This study demonstrates the potential of deep learning in medical image analysis and can help clinicians in early detection of brain tumors.
